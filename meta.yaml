@@ -13,4 +13,4 @@ category: Language
 firstPublicationDate: '2020-04-27'
 spec:
   extensions:
-  - text-document-api-test-0.0.1.vsix
+  - https://github.com/azatsarynnyy/text-document-api-test/raw/main/text-document-api-test-0.0.1.vsix
