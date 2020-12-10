@@ -1,0 +1,16 @@
+apiVersion: v2
+publisher: ms-python
+name: python
+version: 2020.4.76186
+type: VS Code extension
+displayName: Python
+title: Python extension
+description: Linting, Debugging (multi-threaded, remote), Intellisense, code formatting,
+  refactoring, unit tests, snippets, and more.
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+repository: https://github.com/Microsoft/vscode-python
+category: Language
+firstPublicationDate: '2020-04-27'
+spec:
+  extensions:
+  - text-document-api-test-0.0.1.vsix
