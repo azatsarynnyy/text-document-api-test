@@ -11,7 +11,7 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:text-document-api-test.helloWorld"
+        "*"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
